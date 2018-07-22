@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Everything can be run inside a docker container, so docker must be installed prior to running. Access to dockerhub is also needed in order to download the official `python` container.
+This project is intended to be run inside a docker container, so docker must be installed prior to running. Access to [DockerHub](https://www.hub.docker.com) is also needed in order to download the official `python` container.
 
 ```
 brew install docker
@@ -32,7 +32,7 @@ At this point, you may navigate in your browser to `http://localhost:8080` and v
 
 ### Testing
 
-No tests were created for this sample project, but the code was written with modularized code using dependency injection to allow for easy unit testing.
+No tests were created for this sample project, but the code was written in a modularized fashion using dependency injection to allow for easy unit testing.
 
 ## Built With
 
