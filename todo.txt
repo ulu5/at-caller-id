@@ -1,0 +1,14 @@
+-- create requirements.txt
+-- bundle
+-- cleanup dependencies - set service/dao in config file
+-- config.py
+-- remove debug=True
+-- package into docker container, args for port
+
+retest
+write readme
+write license file
+
+commit to git
+reply to email
+remove pyc files
