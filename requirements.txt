@@ -13,7 +13,7 @@ jsonschema==2.6.0
 MarkupSafe==1.0
 pkginfo==1.4.2
 pytz==2018.5
-requests==2.19.1
+requests==2.20.0
 requests-toolbelt==0.8.0
 six==1.11.0
 tqdm==4.23.4
